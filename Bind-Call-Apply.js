@@ -1,3 +1,5 @@
+// BIND debe utilizarse con una variable que es la nueva función
+// CALL & APPLY devuelven su resultado directamente en el console.log
 
 var persona = {
     nombre: 'Franco',
